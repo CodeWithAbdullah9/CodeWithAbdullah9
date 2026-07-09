@@ -28,11 +28,9 @@
 
 ### 🚀 About Me
 
-I'm a **Full-Stack Developer** who turns complex problems into elegant solutions.  
-With a strong foundation in **React**, **Django**, and **Python**, I build web applications and software systems that are both powerful and user-friendly.
-
-I specialize in creating **scalable backends**, **responsive frontends**, and **seamless API integrations**.  
-Whether it's a taxi dispatch system, a food delivery platform, or a POS solution — I enjoy bringing ideas to life through clean, maintainable code.
+I'm a **Full-Stack Developer** passionate about building web applications and software systems that solve real problems.  
+With expertise in **React**, **Django**, and **Python**, I create scalable backends, responsive frontends, and seamless API integrations.  
+I believe in writing clean, maintainable code and delivering solutions that make a difference — from taxi dispatch platforms to food delivery systems and POS solutions.
 
 ---
 
